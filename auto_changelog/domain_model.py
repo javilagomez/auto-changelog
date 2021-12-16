@@ -15,7 +15,7 @@ class ChangeType(Enum):
     CHORE = "chore"
     DOCS = "docs"
     FEAT = "feat"
-    FIX = "fix"
+    FIX = "fixe"
     PERF = "perf"
     REFACTOR = "refactor"
     REVERT = "revert"
